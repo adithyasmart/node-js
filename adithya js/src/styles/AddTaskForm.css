@@ -1,0 +1,9 @@
+.add-task-form {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.add-task-form input, .add-task-form select {
+  margin-right: 10px;
+}
